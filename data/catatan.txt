@@ -1,0 +1,2 @@
+Ini adalah latihan menulis file menggunakan Python.
+Data berhasil disimpan ke dalam file catatan.txt.
